@@ -3,7 +3,7 @@
 print("hello world")
 
 class Server(object):
-    name = 'Server'
+    name = 'MyServer'
 
 class Client(object):
     name = 'Client'
