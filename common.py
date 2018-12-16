@@ -1,4 +1,5 @@
-def create_teacher(name, region):
+def create_teacher(name):
+    print('name = %s' % name)
     return Teacher(name, region)
 
 def create_student(name):
