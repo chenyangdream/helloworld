@@ -9,3 +9,12 @@ class Student(object):
     def print():
         print("I am a Student.")
 
+class HighSchoolStudent(Student):
+
+    def __init__():
+        self.no = None
+        self.name = ''
+
+    def print():
+        print("I am a High School Student.")
+
