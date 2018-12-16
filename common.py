@@ -17,3 +17,5 @@ def print_teacher(t):
 def print_school_type(s):
     s.print_type()
 
+def print_teacher_type(t):
+    t.print_type()
