@@ -10,3 +10,6 @@ def is_a_teacher(name):
 
 def print_student(student):
     student.print()
+
+def print_teacher(t):
+    t.print()
