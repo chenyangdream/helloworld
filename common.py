@@ -8,5 +8,8 @@ def create_student(name):
 def is_a_teacher(name):
     return name in teachers
 
+def print_student(student):
+    student.print()
+
 def print_teacher(t):
     t.print()
