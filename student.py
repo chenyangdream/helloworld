@@ -7,5 +7,5 @@ class Student(object):
         self.name = ''
 
     def print():
-        print("I am a student.")
+        print("I am a Student.")
 
