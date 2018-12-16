@@ -13,3 +13,7 @@ def print_student(student):
 
 def print_teacher(t):
     t.print()
+
+def print_school_type(s):
+    s.print_type()
+
